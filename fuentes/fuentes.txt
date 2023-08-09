@@ -1,0 +1,5 @@
+FUENTES: 
+
+- Open Sans
+- Oswald
+- Noto Serif
